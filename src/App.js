@@ -1,6 +1,6 @@
 import React from 'react';
-import HomePage from './homepage.component'
-import logo from './logo.svg';
+import HomePage from './pages/homepage/homepage.component'
+//import logo from './logo.svg';
 import './App.css';
 
 function App() {
